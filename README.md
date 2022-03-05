@@ -6,3 +6,4 @@ zagibest/zagibest is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <img src="https://github-readme-stats.vercel.app/api?username=zagibest&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zagibest"/>
