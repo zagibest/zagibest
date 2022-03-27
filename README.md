@@ -1,5 +1,3 @@
-- 🌱 Currently learning Next JS, Firebase
-
 
 <!---
 zagibest/zagibest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
