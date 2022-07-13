@@ -4,11 +4,7 @@ zagibest/zagibest is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 
 --->
-<h1 align="center">Hi 👋, I'm Zandan-Ochir Ganbold</h1>
-	
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zagibest&color=blueviolet&style=flat">
-</p>
+
 	
 ### 🛠 &nbsp;Languages and Tools
 
@@ -32,12 +28,3 @@ You can click the Preview link to take a look at your changes.
 <br>
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 <br/>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/zagibest">
-  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zagibest&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zagibest&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
