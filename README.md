@@ -4,7 +4,8 @@ zagibest/zagibest is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 
 --->
-
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zagibest&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zagibest&layout=compact&langs_count=8&theme=algolia"/>
 	
 ### 🛠 &nbsp;Languages and Tools
 
